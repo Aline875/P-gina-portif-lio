@@ -1,1 +1,3 @@
-# Página de portifólio criada para o projeto Desenvolve 2024 do grupoBoticario em parceria com a Alura.
+# Aline Beatriz - Portfólio Pessoal (Projeto Desenvolve Grupo Boticário - Alura)
+
+Este é o repositório do portfólio pessoal. Portfólio foi desenvolvido como parte do projeto Desenvolve do Grupo Boticário em parceria com a Alura. Destacando minhas habilidades em desenvolvimento Front-end e compartilha minha jornada e aspirações profissionais. Inclui uma introdução, minhas especialidades em tecnologias como React, Next.js, C#, Angular, JavaScript, HTML, CSS e Python, além de links para minhas redes sociais, como GitHub e LinkedIn. Este portfólio é uma maneira de mostrar meu trabalho e me conectar com outros profissionais e entusiastas da tecnologia.
