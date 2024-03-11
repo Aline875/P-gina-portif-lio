@@ -17,7 +17,7 @@
   body 
   {
       /* height: 100vh; */
-      background-image: url(/Public/Debbie\ Balboa.gif);
+      background-image: url(/Portifólio/Public/Debbie\ Balboa.gif);
       background-size:cover ;
       background-repeat: no-repeat;
       background-attachment: fixed;
@@ -29,13 +29,15 @@
   .cabecalho
   {
   padding: 2% 0% 0% 10%;
+  display: flex;
+  justify-content:center;
   
   }
 
   .cabecalho-nav
   {
   display: flex;
-  gap: 80px;
+  gap: 350px;
 
   }
 
@@ -51,11 +53,17 @@
   .titulo
   {
     font-size: 36px;
+
   }
 
   .titulo1
   {
   color: var(--azul-3);
+  }
+
+  .titulo-2
+  {
+    font-size: 26px;
   }
 
   .texto
@@ -68,7 +76,7 @@
   {
       display: flex;
       align-items: center;
-      justify-content: space-between;
+      justify-content: center;
       padding: 5% 15%;
       gap: 82px;
   }
